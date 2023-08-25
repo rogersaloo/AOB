@@ -76,3 +76,12 @@ First install the and update python3
 
 ```sudo apt update
 ```
+
+# update ndvidia and the drivers
+TO start using GPU
+Download CUDA look at pytorch website for supported version of torch
+Download CUDNN chek compatability with cuda
+Move the CuDNN files into CUDA path and update env variables
+- `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\libnvvp`
+- `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin`
+3. Go to Device manager Display adaptors and update the adaptors
