@@ -15,6 +15,6 @@ You do not have to strickly stick by the tech stack highlighted in the documenta
 :fontawesome-brands-twitter:{ .twitter }
 
 :octicons-heart-fill-24:{ .heart }
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
 
 

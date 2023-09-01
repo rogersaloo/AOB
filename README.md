@@ -10,3 +10,6 @@ Browse the docummentation [here](#) to recieve a number of tips for your own usa
 1. Add material theme to change the mkdocs to material. Run ```pip install mkdocs-material```.
 2. To set up social media plugins `pip install pillow cairosvg`.
 3. Using code blocks can be highlighted by choosing on option [here](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/).
+
+## Resources
+1. For full documentation visit [mkdocs.org](https://www.mkdocs.org).
